@@ -1,4 +1,4 @@
-MIT-6.0001-course
+MIT-6.0002-course
 INFO
 My solutions to the assignments of MIT 6.0002 course.
 
