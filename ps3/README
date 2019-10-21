@@ -1,1 +1,11 @@
+All features including animation are tested and they are working properly with Python 3!
+
+Additional info:
+* I have added two .png files with plotted results for Problem 6 tasks.
+* I could not open test.pyc properly with Python 3 so i have decided to decode it and save as standard .py file (i am providing both files).
+* py3.py is the main file where i have set up solution and animation for EmptyRoom type which you can play with.
+* py3_vis_with_furniture is ready to go with animation for FurnitureRoom type. 
+
+In case you have any question/suggestions or feedback, 
+mail me at: montana102@gmail.com.
 
